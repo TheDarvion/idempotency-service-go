@@ -45,7 +45,7 @@ package main
 
 import (
     "net/http"
-    "github.com/TheDarvion/idempotency-service-go/service"
+    "github.com/RedBrainRaph/idempotency-service-go/service"
 )
 
 func main() {
